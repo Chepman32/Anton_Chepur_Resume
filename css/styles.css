@@ -353,11 +353,11 @@ color: #39383a;
     width: 70%;
     height: 70%;
 }
-.languages {
-    flex-direction: column;
-}
 }
 @media(max-width: 480px) {
+    .languages {
+        flex-direction: column;
+    }
     .logo {
         display: none;
     }
