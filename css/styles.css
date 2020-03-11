@@ -26,6 +26,7 @@ body {
 .profile__photo {
     height: 230px;
     background-image: url(https://cs8.pikabu.ru/post_img/big/2016/07/22/5/146916751612768741.jpg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
